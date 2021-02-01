@@ -1,4 +1,4 @@
-### André Macedo 👋
+## André Macedo 👋
 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andmac12&show_icons=true&theme=nord)
@@ -14,17 +14,17 @@
 -->
 ---
 
-## Most used Languages
+### Most used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andmac12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andmac12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andmac12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
  
 < Website Comming >
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 <br />
