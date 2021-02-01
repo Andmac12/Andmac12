@@ -1,17 +1,9 @@
 ### André Macedo 👋
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Andmac12&show_icons=true&hide_border=true" />
-
-</details>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andmac12&show_icons=true&theme=nord)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andmac12&show_icons=true&theme=monokai)
-
----
 <!-- 
 
 ### Spotify Playing 🎧
@@ -20,6 +12,15 @@
 
 
 -->
+---
+
+## Most used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andmac12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andmac12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
  
 < Website Comming >
