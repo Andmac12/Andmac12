@@ -9,7 +9,7 @@
 </details>
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andmac12&show_icons=true&theme=cobalt)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andmac12&show_icons=true&theme=monokai)
 
 ---
 <!-- 
@@ -49,8 +49,6 @@
 
 <br />
 <br />
-
----
 
 
 [website]: //
