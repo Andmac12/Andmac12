@@ -21,10 +21,6 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andmac12)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
- 
-< Website Comming >
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 <br />
